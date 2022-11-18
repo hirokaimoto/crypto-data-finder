@@ -62,7 +62,7 @@ function countryApi(api) {
                 `
             } else {
                 result.innerHTML = `
-                <h3>Please enter a valid country name.</h3>
+                <h3>Please enter a valid crypto name.</h3>
                 `
             }
 
